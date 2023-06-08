@@ -8,7 +8,7 @@
   line-height: 58px;
   color: #FFFFFF;
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 319px) {
   .intro__title {
     text-align: left;
     line-height: 35px;
