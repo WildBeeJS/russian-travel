@@ -29,18 +29,18 @@
   transition: .5s;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1200px) {
   .cover__background {
     min-height: 640px;
   }
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 850px) {
   .cover__background {
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 400px) {
   .cover__background {
     min-height: 200px;
   }
